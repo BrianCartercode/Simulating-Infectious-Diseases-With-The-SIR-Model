@@ -4,8 +4,8 @@ The project forms part of a research study analysing how mathematical modelling 
 
 Installation and Usage:
 
-git clone https://github.com/yourusername/sir-model-project.git
-cd sir-model-project
+git clone https://github.com/BrianCartercode/Simulating-Infectious-Diseases-With-The-SIR-Model.git
+cd Simulating-Infectious-Diseases-With-The-SIR-Model
 
 pip install numpy scipy matplotlib
 
